@@ -1,0 +1,11 @@
+Product,Category,Price,Date,Quantity,Revenue,Sales_Level,Discount,Final_Revenue,Month
+Laptop,Electronics,1500,2024-01-15,2,3000,High,300.0,-897000.0,1
+Phone,Electronics,800,2024-02-10,5,4000,High,400.0,-1596000.0,2
+Chair,Furniture,120,2024-03-18,3,360,Low,18.0,-6120.0,3
+Desk,Furniture,300,2024-04-12,1,300,Low,15.0,-4200.0,4
+Headphone,Accessories,200,2024-05-20,4,800,Medium,40.0,-31200.0,5
+Monitor,Electronics,600,2024-06-20,2,1200,Medium,120.0,-142800.0,6
+Sofa,Furniture,700,2024-02-08,1,700,Medium,35.0,-23800.0,2
+Keyboard,Accessories,150,2024-07-14,6,900,Medium,45.0,-39600.0,7
+Mouse,Accessories,50,2024-09-30,8,400,Low,20.0,-7600.0,9
+Tablet,Electronics,400,2024-10-05,3,1200,Medium,120.0,-142800.0,10
